@@ -15,3 +15,4 @@ SUMMARY -> THIRD PROJECT <br>
 First of all, this project showed me what is it RWD and how important is it. <br>
 I have learned a lot of things that I will use in SCSS or other projects to build really good looking websites. <br>
 For the first time, I could develop my artistic skill in planing new site too. <br>
+<br>
