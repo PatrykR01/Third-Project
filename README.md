@@ -10,8 +10,10 @@ It is very simple project, but purpose of this was to develop skills in making l
 5. I expanded my knowledge about RWD.<br>
 <br><br>![Zrzut ekranu (5)](https://user-images.githubusercontent.com/99299154/194406389-57eb99fb-821b-435e-b5ee-09959914f360.png)
 
+<br>
+
 SUMMARY -> THIRD PROJECT <br>
-<br><br><br>
+<br>
 First of all, this project showed me what is it RWD and how important is it. <br>
 I have learned a lot of things that I will use in SCSS or other projects to build really good looking websites. <br>
 For the first time, I could develop my artistic skill in planing new site too. <br>
